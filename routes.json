@@ -1,0 +1,3 @@
+{
+  "/configure/:user/units/:id" : "/:user/:id"
+}
